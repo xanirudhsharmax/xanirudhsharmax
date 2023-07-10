@@ -12,7 +12,6 @@
   - JavaFx
   - HTML/CSS
   - Javascript
-  - Node.js
   - React
   - Prolog
 
