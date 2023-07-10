@@ -12,7 +12,7 @@
   - JavaFx
   - HTML/CSS
   - Javascript
-  - React
+  - Node JS
   - Prolog
 
 
