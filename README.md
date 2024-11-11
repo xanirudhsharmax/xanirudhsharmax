@@ -2,10 +2,13 @@
 
 ## My Name is Anirudh Sharma
   - I am pursuing my B.Tech in Computer Science with specialisation in Social Sciences
-  - Competitive Programmer
+  - Backend Developer
 
 ## Languages/Tools i Know
   - C/C++
+  - Spring Boot
+  - Kafka
+  - Redis
   - Java
   - python
   - MySql
@@ -13,7 +16,7 @@
   - HTML/CSS
   - Javascript
   - Node JS
-  - Prolog
+  - MongoDB
 
 
 <h3 align="left">Connect with me:</h3>
